@@ -22,8 +22,8 @@
 ---
 
 ### 📌 Current Work
-Working on an AI tool in C++ and Python.  
-Building a Local LLM Application in C++.
+- Working on an AI tool in C++ and Python.  
+- Building a Local LLM Application in C++.
 
 ---
 
