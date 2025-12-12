@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">vxsperal</h1>
 
-<!--
-**Vxsperal/vxsperal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>writing code, keeping it clean, keeping it quiet.</samp>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Stack
+- Python  
+- C++  
+- Bash  
+- Linux (daily driver)
+
+---
+
+### 🧠 Focus
+- AI & NLP  
+- Systems-level programming  
+- Building tools that actually solve problems instead of collecting dust  
+
+---
+
+### 📌 Current Work
+Working on an AI tool in C++ and Python.  
+Building a Local LLM Application in C++.
+
+---
+
+### 📊 Activity
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vxsperal&show_icons=false&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxsperal&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <samp>minimal input, maximal output.</samp>
+</p>
