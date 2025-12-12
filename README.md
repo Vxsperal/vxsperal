@@ -1,7 +1,7 @@
 <h1 align="center">✨vxsperal's profile✨</h1>
 
 <p align="center">
-  <samp>writing code, keeping it clean, keeping it quiet.</samp>
+  <samp>writing code, keeping it clean, and occasionally breaking my Linux setup 🥀.</samp>
 </p>
 
 ---
@@ -26,7 +26,3 @@
 - Building a Local LLM Application in C++.
 
 ---
-
-<p align="center">
-  <samp>minimal input, maximal output.</samp>
-</p>
