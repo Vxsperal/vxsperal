@@ -1,4 +1,4 @@
-<h1 align="center">vxsperal's profile</h1>
+<h1 align="center">✨vxsperal's profile✨</h1>
 
 <p align="center">
   <samp>writing code, keeping it clean, keeping it quiet.</samp>
